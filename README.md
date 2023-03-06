@@ -17,7 +17,7 @@ In this project we hope to learn how accurate our models are at predicting futur
 ## Analysis
 We created multiple types of machine learning models in pandas that included random forest classification, neural networks, and K-means clustering to determine the most accurate model at classifying which stellar objects. Multiple iterations of each model were created to verify the consistancy of the machine learning model type.
 
-Random forest classification proved to be the most accurate modeling type with an average accuracy of 97.7% and a standard deviation of 0.03%. 
+Random forest classification proved to be the most accurate modeling type with an average accuracy of 97.8% and a standard deviation of 0.03%. 
 
 ![Random Forest Accuracy Values](https://user-images.githubusercontent.com/91921522/160036675-61aa4ad1-fdbb-4144-950e-441b7e378211.png)
 
